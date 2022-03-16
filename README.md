@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <hr>사용해본 Language</hr>
+  <hr>사용해본 Language</hr><br>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   </a>
