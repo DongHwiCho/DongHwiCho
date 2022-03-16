@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Airplay-000000?style=flat-square&logo=airplayvideo&logoColor=white"/></a>
+
+<div align="center">
+  <hr>사용해본 Language</hr>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  </a>
+</div>
+
