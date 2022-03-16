@@ -1,4 +1,4 @@
-###🥑 Holy Moly Guacamole DongHwi's Profile! 🥑
+### Holy Moly Guacamole DongHwi's Profile! 🥑
 
 <!--
 **DongHwiCho/DongHwiCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
